@@ -10,8 +10,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmdwo0508)](https://solved.ac/dltmdwo0508/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masiljangajji&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 
+
+
 ## 📝Study
-<img src="https://github.com/masiljangajji/masiljangajji/assets/61807355/ef57e0dd-029d-4565-9697-d70ec66ba645.png  width="200" height="400"/>
+<img src="https://github.com/masiljangajji/masiljangajji/assets/61807355/ef57e0dd-029d-4565-9697-d70ec66ba645/Integration.png  width="200" height="400"/>
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=black"/>
