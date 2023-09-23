@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=black"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black"/>
 
-[코테 기출 블로그](https://masiljangajji-coding.tistory.com/)
+[이것저것 블로그](https://masiljangajji-coding.tistory.com/)
 
 
 
