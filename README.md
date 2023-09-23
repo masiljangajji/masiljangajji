@@ -13,7 +13,7 @@
 
 
 ## 📝Study
-![Integration](https://github.com/NHNAcademy4th-CIA/Lambda/assets/61807355/9e52dad5-43e2-4f0b-a979-f43855975e75)
+![img.png](img.png)
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=black"/>
