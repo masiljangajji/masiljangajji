@@ -10,6 +10,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltmdwo0508)](https://solved.ac/dltmdwo0508/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masiljangajji&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
 
+github-readme-stats.vercel.app/api?username=masiljangajji&show_icons=true&theme=dark
 
 
 ## 📝Study
