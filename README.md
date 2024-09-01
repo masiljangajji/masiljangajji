@@ -4,7 +4,8 @@
 
 ### Hi there 👋, my name is masiljangajji
 #### Back-End Developer
-![Entry Level Back-End Developer](https://github.com/user-attachments/assets/4647c79a-b6c2-40e5-9ce1-5d473a0f7b2a)
+
+![KakaoTalk_Photo_2024-09-02-00-11-00 001](https://github.com/user-attachments/assets/eaac4544-25ce-4bee-99b3-173377af80b6)
 
 **Interested in writing robust programs and tests.**
 
