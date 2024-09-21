@@ -17,9 +17,9 @@ Skills: Java , Spring , JUnit5 , Mockito, and various tools.
 - 📄 Know about my experiences [Click Here](https://www.rallit.com/resumes/23287@dltmdwo0508/%EC%9D%B4%EC%8A%B9%EC%9E%AC?theme=STANDARD)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masiljangajji&count_private=true)
-
 [<img src="https://img.shields.io/badge/tistory blog-e74c3c?style=for-the-badge&logo=tistory&logoColor=white" alt="tistory"/>](https://masiljangajji-coding.tistory.com/)
+[![Video Label](http://img.youtube.com/vi/Tc2mMKK_MTg/0.jpg)]([https://youtu.be/59USvjy2toI](https://www.youtube.com/watch?v=Tc2mMKK_MTg))
+
 
 
 
