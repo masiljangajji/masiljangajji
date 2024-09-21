@@ -18,9 +18,7 @@ Skills: Java , Spring , JUnit5 , Mockito, and various tools.
 
 
 [<img src="https://img.shields.io/badge/tistory blog-e74c3c?style=for-the-badge&logo=tistory&logoColor=white" alt="tistory"/>](https://masiljangajji-coding.tistory.com/)
-[![Video Label](http://img.youtube.com/vi/Tc2mMKK_MTg/0.jpg)]([https://youtu.be/59USvjy2toI](https://www.youtube.com/watch?v=Tc2mMKK_MTg))
-
-
+[![Video Label](http://img.youtube.com/vi/Tc2mMKK_MTg/0.jpg)](https://youtu.be/Tc2mMKK_MTg)
 
 
 
