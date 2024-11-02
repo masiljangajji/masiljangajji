@@ -14,6 +14,7 @@
 Skills: Java , Spring , JUnit5 , Mockito, and various tools.
 
 - 📫 How to reach me: xmfpdlsj0508@gmail.com 
+- 📄 Know about my experiences [Click Here](https://www.rallit.com/resumes/23287@dltmdwo0508/%EC%9D%B4%EC%8A%B9%EC%9E%AC?theme=STANDARD)
 
 
 [<img src="https://img.shields.io/badge/tistory blog-e74c3c?style=for-the-badge&logo=tistory&logoColor=white" alt="tistory"/>](https://masiljangajji-coding.tistory.com/)
