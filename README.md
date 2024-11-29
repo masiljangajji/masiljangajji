@@ -16,8 +16,4 @@ Skills: Java , Spring , JUnit5 , Mockito, and various tools.
 - 📫 How to reach me: xmfpdlsj0508@gmail.com 
 
 
-[<img src="https://img.shields.io/badge/tistory blog-e74c3c?style=for-the-badge&logo=tistory&logoColor=white" alt="tistory"/>](https://masiljangajji-coding.tistory.com/)
-<br>
-
-
 
