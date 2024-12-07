@@ -1,3 +1,1 @@
-
-![Entry Level Back-End Developer](https://github.com/user-attachments/assets/4647c79a-b6c2-40e5-9ce1-5d473a0f7b2a)
-
+![image](https://github.com/user-attachments/assets/9c551e29-453b-402d-9121-e26385572940)
