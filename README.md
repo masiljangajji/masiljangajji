@@ -23,5 +23,5 @@
 
 - **[Add approaches for Parallel Letter Frequency #2863](https://github.com/exercism/java/pull/2863)**  
   - Parallel Letter Frequency 문제에 대한 병렬 접근법과 답안 코드 작성
-- **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)** <br>
+  - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)** <br>
 
