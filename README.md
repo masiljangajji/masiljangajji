@@ -1,4 +1,5 @@
 ### Hi there, I'm Seungjae Lee 👋
+- [about me](https://masiljangajji.notion.site/255b70a0feb680c58609e715cc7e983b)
 
 ---
 
@@ -27,3 +28,4 @@
   - Parallel Letter Frequency 문제에 대한 병렬 접근법과 답안 코드 작성
   - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)** <br>
 
+---
