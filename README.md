@@ -18,7 +18,6 @@
 - **SIPE 3기** (2024.11.01 ~ 2024.12.07)  
 - **[kakao x goorm] 9oormthonUNIV 3기** (2024.09.06 ~ 2024.11.24)
 - **NHN Academy 4기** (2023.08.28 ~ 2024.03.26)
-- [2024년 , 성장을 만든 IT 활동](https://sprinkle-place-c1a.notion.site/2024-IT-184b70a0feb68086ac07ca47f7e52c80?pvs=74)
 
 ---
 
