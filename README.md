@@ -29,7 +29,3 @@
 
 ---
 
-test
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=masiljangajji)](https://git.io/streak-stats)
-
