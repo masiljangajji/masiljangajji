@@ -28,3 +28,6 @@
   - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)** <br>
 
 ---
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=masiljangajji)](https://git.io/streak-stats)
