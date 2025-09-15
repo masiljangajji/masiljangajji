@@ -25,7 +25,7 @@
 - **Exercism**
   - **[Add approaches for Parallel Letter Frequency #2863](https://github.com/exercism/java/pull/2863)**  
   - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)** <br>
-- **전자정부 프레임워크**
+- **e-Government Framework**
   - **[refactor: 읽기 로직 개선 (StringBuilder,try-with-resource) #102](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/102)**
   - **[코드 스타일 및 안전성 개선 (Override, 오탈자, 기본값 및 예외처리) #104](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/104)**
 
