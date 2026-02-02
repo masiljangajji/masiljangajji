@@ -50,7 +50,7 @@ let text = `
 
 ---
 
-## Latest Posts
+### ✍️ Latest Posts
 `;
 
 const parser = new Parser({
@@ -72,7 +72,6 @@ const parser = new Parser({
 
         const date = dayjs(pubDate).add(9, "hours").format("YYYY.MM.DD HH:mm:ss");
         text += `<a href=${link}>${title}</a></br>`;
-        text += `게시일자 : ${date}</br></br>`;
     }
 
     // README.md 파일 작성
