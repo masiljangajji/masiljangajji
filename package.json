@@ -1,0 +1,24 @@
+{
+  "name": "masiljangajji",
+  "version": "1.0.0",
+  "description": "- [about me](https://masiljangajji.notion.site/255b70a0feb680c58609e715cc7e983b)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masiljangajji/masiljangajji.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masiljangajji/masiljangajji/issues"
+  },
+  "homepage": "https://github.com/masiljangajji/masiljangajji#readme",
+  "dependencies": {
+    "dayjs": "^1.11.19",
+    "rss-parser": "^3.13.0"
+  }
+}
