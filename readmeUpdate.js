@@ -71,7 +71,7 @@ const parser = new Parser({
         console.log(`추가될 링크: ${link}`);
 
         const date = dayjs(pubDate).add(9, "hours").format("YYYY.MM.DD HH:mm:ss");
-        text += `- <a href=${link}>${title}</a></br>`;
+        text += `- <a href=${link}>${title}</a></br>\n`;
     }
 
     // README.md 파일 작성
