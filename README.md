@@ -1,3 +1,4 @@
+
 ### Hi there, I'm Seungjae Lee 👋
 - [about me](https://masiljangajji.notion.site/255b70a0feb680c58609e715cc7e983b)
 
@@ -25,7 +26,7 @@
 
 - **Exercism**
   - **[Add approaches for Parallel Letter Frequency #2863](https://github.com/exercism/java/pull/2863)**  
-  - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)** <br>
+  - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)** 
 - **e-Government Framework**
   - **[refactor: 읽기 로직 개선 (StringBuilder,try-with-resource) #102](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/102)**
   - **[코드 스타일 및 안전성 개선 (Override, 오탈자, 기본값 및 예외처리) #104](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/104)**
@@ -37,3 +38,8 @@
 - https://github.com/users/masiljangajji/projects/1
 - https://masiljangajji-coding.tistory.com/
 - https://medium.com/@hjk172262
+
+---
+
+## Latest Posts
+<a href=https://masiljangajji-coding.tistory.com/110>로버트 마틴은 할아버지 [우리, 프로그래머들]</a></br>게시일자 : 2026.01.31 02:06:20</br></br><a href=https://masiljangajji-coding.tistory.com/109>남을 가르치는 직업이란 (feat: 코딩 강사 회고)</a></br>게시일자 : 2025.12.03 01:37:05</br></br><a href=https://masiljangajji-coding.tistory.com/108>[Medium] 레디스는 싱글 스레드인데, 어떻게 초당 수백만 요청을 처리할까?</a></br>게시일자 : 2025.09.26 20:32:16</br></br><a href=https://masiljangajji-coding.tistory.com/103>[Medium]왜 대부분의 유닛 테스트는 쓸모없는가?</a></br>게시일자 : 2025.09.11 00:37:46</br></br><a href=https://masiljangajji-coding.tistory.com/101>동기에서 비동기로, 그리고 최적화까지 - Lambda 성능 실험기</a></br>게시일자 : 2025.09.09 22:53:26</br></br>
