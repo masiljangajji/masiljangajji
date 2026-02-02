@@ -41,5 +41,5 @@
 
 ---
 
-## Latest Posts
-<a href=https://masiljangajji-coding.tistory.com/110>로버트 마틴은 할아버지 [우리, 프로그래머들]</a></br>게시일자 : 2026.01.31 02:06:20</br></br><a href=https://masiljangajji-coding.tistory.com/109>남을 가르치는 직업이란 (feat: 코딩 강사 회고)</a></br>게시일자 : 2025.12.03 01:37:05</br></br><a href=https://masiljangajji-coding.tistory.com/108>[Medium] 레디스는 싱글 스레드인데, 어떻게 초당 수백만 요청을 처리할까?</a></br>게시일자 : 2025.09.26 20:32:16</br></br><a href=https://masiljangajji-coding.tistory.com/103>[Medium]왜 대부분의 유닛 테스트는 쓸모없는가?</a></br>게시일자 : 2025.09.11 00:37:46</br></br><a href=https://masiljangajji-coding.tistory.com/101>동기에서 비동기로, 그리고 최적화까지 - Lambda 성능 실험기</a></br>게시일자 : 2025.09.09 22:53:26</br></br>
+### ✍️ Latest Posts
+<a href=https://masiljangajji-coding.tistory.com/110>로버트 마틴은 할아버지 [우리, 프로그래머들]</a></br><a href=https://masiljangajji-coding.tistory.com/109>남을 가르치는 직업이란 (feat: 코딩 강사 회고)</a></br><a href=https://masiljangajji-coding.tistory.com/108>[Medium] 레디스는 싱글 스레드인데, 어떻게 초당 수백만 요청을 처리할까?</a></br><a href=https://masiljangajji-coding.tistory.com/103>[Medium]왜 대부분의 유닛 테스트는 쓸모없는가?</a></br><a href=https://masiljangajji-coding.tistory.com/101>동기에서 비동기로, 그리고 최적화까지 - Lambda 성능 실험기</a></br>
