@@ -1,10 +1,13 @@
 {
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "rss-parser": "^3.13.0"
+  },
   "name": "masiljangajji",
   "version": "1.0.0",
-  "description": "- [about me](https://masiljangajji.notion.site/255b70a0feb680c58609e715cc7e983b)",
-  "main": "index.js",
+  "main": "readmeUpdate.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node readmeUpdate.js"
   },
   "repository": {
     "type": "git",
@@ -16,9 +19,5 @@
   "bugs": {
     "url": "https://github.com/masiljangajji/masiljangajji/issues"
   },
-  "homepage": "https://github.com/masiljangajji/masiljangajji#readme",
-  "dependencies": {
-    "dayjs": "^1.11.19",
-    "rss-parser": "^3.13.0"
-  }
+  "homepage": "https://github.com/masiljangajji/masiljangajji#readme"
 }
