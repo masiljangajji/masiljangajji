@@ -1,6 +1,5 @@
 
 ### Hi there, I'm Seungjae Lee 👋
-- [about me](https://masiljangajji.notion.site/255b70a0feb680c58609e715cc7e983b)
 
 ---
 
