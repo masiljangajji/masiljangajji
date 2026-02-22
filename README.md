@@ -1,10 +1,11 @@
 
 ### Hi there, I'm Seungjae Lee 👋
+- [about me](https://masiljangajji.notion.site/255b70a0feb680c58609e715cc7e983b)
 
 ---
 
 ### 💼 Career
-- **악어에듀 프로그래밍 강사** (2025.06.05 ~ 2026.02.21)
+- **악어에듀 프로그래밍 강사** (2025.06.05 ~ ing)
   - 단대소고 입학 시험과 실력고사 대비를 위한 알고리즘 및 COS Pro 특강 진행
 - **가비아 하이웍스 개발 인턴** (2025.03.04 ~ 2025.05.31)
   - 하이웍스 기반 채용 서비스 개발
@@ -41,8 +42,8 @@
 ---
 
 ### ✍️ Latest Posts
+- <a href=https://masiljangajji-coding.tistory.com/112>안쉬었음 청년의 2025년 회고</a></br>
 - <a href=https://masiljangajji-coding.tistory.com/110>로버트 마틴은 할아버지 [우리, 프로그래머들]</a></br>
 - <a href=https://masiljangajji-coding.tistory.com/109>남을 가르치는 직업이란 (feat: 코딩 강사 회고)</a></br>
 - <a href=https://masiljangajji-coding.tistory.com/108>[Medium] 레디스는 싱글 스레드인데, 어떻게 초당 수백만 요청을 처리할까?</a></br>
 - <a href=https://masiljangajji-coding.tistory.com/103>[Medium]왜 대부분의 유닛 테스트는 쓸모없는가?</a></br>
-- <a href=https://masiljangajji-coding.tistory.com/101>동기에서 비동기로, 그리고 최적화까지 - Lambda 성능 실험기</a></br>
