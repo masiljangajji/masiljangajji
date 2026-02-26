@@ -9,11 +9,11 @@ dayjs.tz.setDefault("Asia/Seoul");
 
 let text = `
 ### Hi there, I'm Seungjae Lee 👋
-- [about me](https://masiljangajji.notion.site/255b70a0feb680c58609e715cc7e983b)
 
 ---
 
 ### 💼 Career
+- **NHN AD 인턴** (2026.02.23 ~ ing)
 - **악어에듀 프로그래밍 강사** (2025.06.05 ~ ing)
   - 단대소고 입학 시험과 실력고사 대비를 위한 알고리즘 및 COS Pro 특강 진행
 - **가비아 하이웍스 개발 인턴** (2025.03.04 ~ 2025.05.31)
