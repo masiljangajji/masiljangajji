@@ -42,8 +42,8 @@
 ---
 
 ### ✍️ Latest Posts
+- <a href=https://masiljangajji-coding.tistory.com/113>기술 블로그인척하는 회고 블로그인척하는 기술 블로그</a></br>
 - <a href=https://masiljangajji-coding.tistory.com/112>안쉬었음 청년의 2025년 회고</a></br>
 - <a href=https://masiljangajji-coding.tistory.com/110>로버트 마틴은 할아버지 [우리, 프로그래머들]</a></br>
 - <a href=https://masiljangajji-coding.tistory.com/109>남을 가르치는 직업이란 (feat: 코딩 강사 회고)</a></br>
 - <a href=https://masiljangajji-coding.tistory.com/108>[Medium] 레디스는 싱글 스레드인데, 어떻게 초당 수백만 요청을 처리할까?</a></br>
-- <a href=https://masiljangajji-coding.tistory.com/103>[Medium]왜 대부분의 유닛 테스트는 쓸모없는가?</a></br>
