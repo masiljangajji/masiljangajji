@@ -1,5 +1,6 @@
 
 ### Hi there, I'm Seungjae Lee 👋
+📄 **[About Me](https://d1tntg6gs1m8y2.cloudfront.net/)**
 
 ---
 
