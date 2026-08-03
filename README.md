@@ -43,14 +43,6 @@
 
 ---
 
-### 🧪 Learning Archive
-
-- https://github.com/users/masiljangajji/projects/1
-- https://codestudy.org
-- https://medium.com/@hjk172262
-
----
-
 ### ✍️ Latest Posts
 - <a href=https://codestudy.org/how-i-tested-a-sql-builder>초SSS급 개발자는 테스트를 작성한다</a></br>
 - <a href=https://codestudy.org/prompt-to-harness-engineering>AI 시대, 개발은 어떻게 바뀌는가</a></br>
