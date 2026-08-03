@@ -29,11 +29,17 @@
 - **Exercism**
   - **[Add approaches for Parallel Letter Frequency #2863](https://github.com/exercism/java/pull/2863)**
   - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)**
-- **e-Government Framework**
-  - **[fix: 논리 삭제된 첨부파일이 다운로드·이미지 조회로 계속 반환되는 문제 수정 #184](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/184)**
-  - **[fix: 일정 삭제 시 첨부파일이 사용중 상태로 남는 문제 수정 #183](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/183)**
-  - **[코드 스타일 및 안전성 개선 (Override, 오탈자, 기본값 및 예외처리) #104](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/104)**
-  - **[refactor: 읽기 로직 개선 (StringBuilder,try-with-resource) #102](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/102)**
+- **e-Government Framework** · 전자정부 표준프레임워크
+  - **egovframe-template-simple-backend**
+    - **[fix: 논리 삭제된 첨부파일이 다운로드·이미지 조회로 계속 반환되는 문제 수정 #184](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/184)**
+    - **[fix: 일정 삭제 시 첨부파일이 사용중 상태로 남는 문제 수정 #183](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/183)**
+    - **[코드 스타일 및 안전성 개선 (Override, 오탈자, 기본값 및 예외처리) #104](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/104)**
+    - **[refactor: 읽기 로직 개선 (StringBuilder, try-with-resource) #102](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/102)**
+  - **egovframe-msa-edu**
+    - **[fix: 업로드 허용 확장자에서 htm/html 제거가 배포용 설정 사본에 누락된 문제 수정 #94](https://github.com/eGovFramework/egovframe-msa-edu/pull/94)**
+    - **[hotfix: board-service 가 빌드되지 않는 build.gradle 문법 오류 수정 #93](https://github.com/eGovFramework/egovframe-msa-edu/pull/93)**
+  - **egovframe-ai-rag**
+    - **[hotfix: main 빌드 불가 — 프롬프트 템플릿 외부화 이후 잔존 테스트로 인한 컴파일 실패 수정 #74](https://github.com/eGovFramework/egovframe-ai-rag/pull/74)**
 
 ---
 
