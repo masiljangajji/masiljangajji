@@ -30,8 +30,10 @@
   - **[Add approaches for Parallel Letter Frequency #2863](https://github.com/exercism/java/pull/2863)**
   - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)**
 - **e-Government Framework**
-  - **[refactor: 읽기 로직 개선 (StringBuilder,try-with-resource) #102](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/102)**
+  - **[fix: 논리 삭제된 첨부파일이 다운로드·이미지 조회로 계속 반환되는 문제 수정 #184](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/184)**
+  - **[fix: 일정 삭제 시 첨부파일이 사용중 상태로 남는 문제 수정 #183](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/183)**
   - **[코드 스타일 및 안전성 개선 (Override, 오탈자, 기본값 및 예외처리) #104](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/104)**
+  - **[refactor: 읽기 로직 개선 (StringBuilder,try-with-resource) #102](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/102)**
 
 ---
 
