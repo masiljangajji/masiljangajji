@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Seungjae Lee 👋
 
 ---
@@ -36,10 +35,13 @@
     - **[코드 스타일 및 안전성 개선 (Override, 오탈자, 기본값 및 예외처리) #104](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/104)**
     - **[refactor: 읽기 로직 개선 (StringBuilder, try-with-resource) #102](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/102)**
   - **egovframe-msa-edu**
+    - **[fix: 테스트가 메인 설정 파일을 로드하지 못해 컨텍스트 기동이 실패하는 문제 수정 #98](https://github.com/eGovFramework/egovframe-msa-edu/pull/98)**
     - **[fix: 업로드 허용 확장자에서 htm/html 제거가 배포용 설정 사본에 누락된 문제 수정 #94](https://github.com/eGovFramework/egovframe-msa-edu/pull/94)**
     - **[hotfix: board-service 가 빌드되지 않는 build.gradle 문법 오류 수정 #93](https://github.com/eGovFramework/egovframe-msa-edu/pull/93)**
   - **egovframe-ai-rag**
     - **[hotfix: main 빌드 불가 — 프롬프트 템플릿 외부화 이후 잔존 테스트로 인한 컴파일 실패 수정 #74](https://github.com/eGovFramework/egovframe-ai-rag/pull/74)**
+  - **egovframe-runtime**
+    - **[fix: EgovBatchException 이 전달받은 원인 예외를 즉시 버리는 문제 수정 #307](https://github.com/eGovFramework/egovframe-runtime/pull/307)**
 
 ---
 
