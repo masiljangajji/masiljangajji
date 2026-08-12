@@ -25,6 +25,8 @@
 
 ### 🌍 Opensource Contribution
 
+- **LangChain4j**
+  - **[fix: keep the sign of negative numbers in SqlFilterParser IN lists #6037](https://github.com/langchain4j/langchain4j/pull/6037)**
 - **Exercism**
   - **[Add approaches for Parallel Letter Frequency #2863](https://github.com/exercism/java/pull/2863)**
   - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)**
