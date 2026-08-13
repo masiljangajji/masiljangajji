@@ -32,6 +32,7 @@
   - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)**
 - **e-Government Framework** · 전자정부 표준프레임워크
   - **egovframe-template-simple-backend**
+    - **[ci: 워크플로에서 테스트가 실행되지 않는 문제 수정 #188](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/188)**
     - **[fix: 논리 삭제된 첨부파일이 다운로드·이미지 조회로 계속 반환되는 문제 수정 #184](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/184)**
     - **[fix: 일정 삭제 시 첨부파일이 사용중 상태로 남는 문제 수정 #183](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/183)**
     - **[코드 스타일 및 안전성 개선 (Override, 오탈자, 기본값 및 예외처리) #104](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/104)**
@@ -43,6 +44,7 @@
   - **egovframe-ai-rag**
     - **[hotfix: main 빌드 불가 — 프롬프트 템플릿 외부화 이후 잔존 테스트로 인한 컴파일 실패 수정 #74](https://github.com/eGovFramework/egovframe-ai-rag/pull/74)**
   - **egovframe-runtime**
+    - **[fix: MessageSender가 락 대기 중 interrupt를 무시해 지연 전송이 발생하는 문제 수정 #320](https://github.com/eGovFramework/egovframe-runtime/pull/320)**
     - **[fix: EgovBatchException 이 전달받은 원인 예외를 즉시 버리는 문제 수정 #307](https://github.com/eGovFramework/egovframe-runtime/pull/307)**
 
 ---
