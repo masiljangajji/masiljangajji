@@ -26,6 +26,7 @@
 ### 🌍 Opensource Contribution
 
 - **LangChain4j**
+  - **[fix: honor the negation in SqlFilterParser NOT BETWEEN #6063](https://github.com/langchain4j/langchain4j/pull/6063)**
   - **[fix: keep the sign of negative numbers in SqlFilterParser IN lists #6037](https://github.com/langchain4j/langchain4j/pull/6037)**
 - **Exercism**
   - **[Add approaches for Parallel Letter Frequency #2863](https://github.com/exercism/java/pull/2863)**
