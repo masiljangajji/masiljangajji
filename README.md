@@ -31,7 +31,7 @@
 - **Exercism**
   - **[Add approaches for Parallel Letter Frequency #2863](https://github.com/exercism/java/pull/2863)**
   - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)**
-- **e-Government Framework** · 전자정부 표준프레임워크
+- **e-Government Framework**
   - **egovframe-template-simple-backend**
     - **[ci: 워크플로에서 테스트가 실행되지 않는 문제 수정 #188](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/188)**
     - **[fix: 논리 삭제된 첨부파일이 다운로드·이미지 조회로 계속 반환되는 문제 수정 #184](https://github.com/eGovFramework/egovframe-template-simple-backend/pull/184)**
