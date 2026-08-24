@@ -47,6 +47,7 @@
   - **egovframe-ai-rag**
     - **[hotfix: main 빌드 불가 — 프롬프트 템플릿 외부화 이후 잔존 테스트로 인한 컴파일 실패 수정 #74](https://github.com/eGovFramework/egovframe-ai-rag/pull/74)**
   - **egovframe-runtime**
+    - **[fix: BaseException·BaseRuntimeException 이 전달받은 원인 예외를 보관하지 않아 getWrappedException() 이 항상 null 인 문제 수정 #350](https://github.com/eGovFramework/egovframe-runtime/pull/350)**
     - **[fix: MessageSender가 락 대기 중 interrupt를 무시해 지연 전송이 발생하는 문제 수정 #320](https://github.com/eGovFramework/egovframe-runtime/pull/320)**
     - **[fix: EgovBatchException 이 전달받은 원인 예외를 즉시 버리는 문제 수정 #307](https://github.com/eGovFramework/egovframe-runtime/pull/307)**
 
