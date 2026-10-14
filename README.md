@@ -5,6 +5,8 @@
 
 ### 🌍 Opensource Contribution
 
+- **SQLGlot**
+  - **[fix(athena): route by each engine's rules when the combined tokenizer fails #8629](https://github.com/tobymao/sqlglot/pull/8629)**
 - **Spring Data JPA**
   - **[Fix `Range<Score>` lower bound handling in vector search queries #4310](https://github.com/spring-projects/spring-data-jpa/pull/4310)**
 - **Spring Data MongoDB**
