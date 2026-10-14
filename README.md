@@ -13,6 +13,7 @@
   - **[GH-4103 - Use TypeScanner to scan for initial entities #5231](https://github.com/spring-projects/spring-data-mongodb/pull/5231)**
 - **JJWT**
   - **[Align the Gson extension with Jackson's duplicate member name rejection #1073](https://github.com/jwtk/jjwt/pull/1073)**
+  - **[이 이슈는 2023년 12월에 시작되었으며...[더 보기]](https://codestudy.org/jjwt-duplicate-json-keys)**
 - **LangChain4j**
   - **[fix: honor the negation in SqlFilterParser NOT BETWEEN #6063](https://github.com/langchain4j/langchain4j/pull/6063)**
   - **[fix: keep the sign of negative numbers in SqlFilterParser IN lists #6037](https://github.com/langchain4j/langchain4j/pull/6037)**
