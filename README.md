@@ -9,6 +9,8 @@
   - **[fix(athena): route by each engine's rules when the combined tokenizer fails [CLAUDE] #8629](https://github.com/tobymao/sqlglot/pull/8629)**
 - **Spring Data JPA**
   - **[Fix `Range<Score>` lower bound handling in vector search queries #4310](https://github.com/spring-projects/spring-data-jpa/pull/4310)**
+  - **[Commit: Fix inverted lower/upper bound checks in vector `Range<Score>` queries (e8f2730)](https://github.com/spring-projects/spring-data-jpa/commit/e8f27309e54470dd6fe4b8def80c9900cab4e162)**
+  - **[Issue: Lower-bound-only `Range<Score>` fails in vector search queries #4385](https://github.com/spring-projects/spring-data-jpa/issues/4385)**
 - **Spring Data MongoDB**
   - **[GH-4103 - Use TypeScanner to scan for initial entities #5231](https://github.com/spring-projects/spring-data-mongodb/pull/5231)**
 - **JJWT**
