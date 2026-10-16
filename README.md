@@ -15,6 +15,11 @@
 - **JJWT**
   - **[Align the Gson extension with Jackson's duplicate member name rejection #1073](https://github.com/jwtk/jjwt/pull/1073)**
   - **[이 이슈는 2023년 12월에 시작되었으며...[더 보기]](https://codestudy.org/jjwt-duplicate-json-keys)**
+- **Strands Agents Harness SDK**
+  - **[fix(streaming): end the turn when tool_use carries no toolUse blocks #5145](https://github.com/strands-agents/harness-sdk/pull/5145)**
+  - **[Issue: [BUG] tool_use stop with no toolUse blocks breaks the next request #5144](https://github.com/strands-agents/harness-sdk/issues/5144)**
+- **Spring AI**
+  - **[Bind `NOT` tighter than `AND` and `OR` in filter expressions #6818](https://github.com/spring-projects/spring-ai/pull/6818)**
 - **LangChain4j**
   - **[fix: honor the negation in SqlFilterParser NOT BETWEEN #6063](https://github.com/langchain4j/langchain4j/pull/6063)**
   - **[fix: keep the sign of negative numbers in SqlFilterParser IN lists #6037](https://github.com/langchain4j/langchain4j/pull/6037)**
