@@ -25,7 +25,7 @@
 ---
 
 ### ✍️ Latest Posts
-- <a href=https://codestudy.org/open-source-in-the-ai-era>AI로 한 오픈소스 기여, 의미 있나요?</a></br>
+- <a href=https://codestudy.org/open-source-in-the-ai-era>오픈소스 기여, 딸깍으로 해도 되나요?</a></br>
 - <a href=https://codestudy.org/jjwt-duplicate-json-keys>이 이슈는 2023년 12월에 시작되었으며...[더 보기]</a></br>
 - <a href=https://codestudy.org/how-i-tested-a-sql-builder>초SSS급 개발자는 테스트를 작성한다</a></br>
 - <a href=https://codestudy.org/prompt-to-harness-engineering>AI 시대, 개발은 어떻게 바뀌는가</a></br>
