@@ -19,11 +19,8 @@
 - **Exercism**
   - **[Add approaches for Parallel Letter Frequency #2863](https://github.com/exercism/java/pull/2863)**
   - **[Contribution Result](https://exercism.org/tracks/java/exercises/parallel-letter-frequency/dig_deeper)**
-- **e-Government Framework** · 4개 저장소 PR 22건 머지
-  - **[egovframe-runtime (5건)](https://github.com/eGovFramework/egovframe-runtime/pulls?q=is%3Apr+author%3Amasiljangajji+is%3Amerged)**
-  - **[egovframe-ai-rag (4건)](https://github.com/eGovFramework/egovframe-ai-rag/pulls?q=is%3Apr+author%3Amasiljangajji+is%3Amerged)**
-  - **[egovframe-msa-edu (7건)](https://github.com/eGovFramework/egovframe-msa-edu/pulls?q=is%3Apr+author%3Amasiljangajji+is%3Amerged)**
-  - **[egovframe-template-simple-backend (6건)](https://github.com/eGovFramework/egovframe-template-simple-backend/pulls?q=is%3Apr+author%3Amasiljangajji+is%3Amerged)**
+- **e-Government Framework**
+  - **[4개 저장소에 PR 22건 머지](https://github.com/search?q=is%3Apr+author%3Amasiljangajji+org%3AeGovFramework+is%3Amerged&type=pullrequests&p=1)**
 
 ---
 
