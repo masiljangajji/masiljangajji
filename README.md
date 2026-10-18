@@ -22,6 +22,15 @@
 - **e-Government Framework**
   - **[4개 저장소에 PR 22건 머지](https://github.com/search?q=is%3Apr+author%3Amasiljangajji+org%3AeGovFramework+is%3Amerged&type=pullrequests&p=1)**
 
+### 👀 Interested In
+
+- **Spring Data MongoDB**
+  - **[GH-4103 - Use TypeScanner to scan for initial entities. #5231](https://github.com/spring-projects/spring-data-mongodb/pull/5231)**
+- **Spring AI**
+  - **[Bind `NOT` tighter than `AND` and `OR` in filter expressions #6818](https://github.com/spring-projects/spring-ai/pull/6818)**
+- **Harness SDK**
+  - **[fix(streaming): end the turn when tool_use carries no toolUse blocks #5145](https://github.com/strands-agents/harness-sdk/pull/5145)**
+
 ---
 
 ### ✍️ Latest Posts
