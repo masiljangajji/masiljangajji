@@ -24,6 +24,8 @@
 
 ### 👀 Interested In
 
+- **OpenTelemetry Python Contrib**
+  - **[fix: urllib instrumentation breaks file uploads (already fixed for urllib3) #5185](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/5185)**
 - **Spring Data MongoDB**
   - **[GH-4103 - Use TypeScanner to scan for initial entities. #5231](https://github.com/spring-projects/spring-data-mongodb/pull/5231)**
 - **Spring AI**
