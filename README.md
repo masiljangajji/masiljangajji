@@ -24,6 +24,8 @@
 
 ### 👀 Interested In
 
+Spring Data and LLM apps on Amazon Bedrock
+
 - **OpenTelemetry Python Contrib**
   - **[fix: urllib instrumentation breaks file uploads (already fixed for urllib3) #5185](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/5185)**
 - **Spring Data MongoDB**
