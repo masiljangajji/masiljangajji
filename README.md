@@ -24,7 +24,7 @@
 
 ### 👀 Interested In
 
-LLM applications and Spring Data
+LLM services and Spring Data
 
 - **OpenTelemetry Python Contrib**
   - **[fix: urllib instrumentation breaks file uploads (already fixed for urllib3) #5185](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/5185)**
