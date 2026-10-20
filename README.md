@@ -32,6 +32,7 @@
   - **[Bind `NOT` tighter than `AND` and `OR` in filter expressions #6818](https://github.com/spring-projects/spring-ai/pull/6818)**
 - **Harness SDK**
   - **[fix(streaming): end the turn when tool_use carries no toolUse blocks #5145](https://github.com/strands-agents/harness-sdk/pull/5145)**
+  - **[feat(bedrock): report cache write tokens split by cache TTL #5258](https://github.com/strands-agents/harness-sdk/pull/5258)**
 
 ---
 
