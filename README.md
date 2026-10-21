@@ -26,6 +26,8 @@
 
 LLM services and Spring Data
 
+- **SQLGlot**
+  - **[perf(athena): avoid tokenizing DML twice [CLAUDE] #8709](https://github.com/tobymao/sqlglot/pull/8709)**
 - **OpenTelemetry Python Contrib**
   - **[fix: urllib instrumentation breaks file uploads (already fixed for urllib3) #5185](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/5185)**
 - **Spring Data MongoDB**
