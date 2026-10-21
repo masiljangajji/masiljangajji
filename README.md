@@ -6,6 +6,7 @@
 ### 🌍 Opensource Contribution
 
 - **SQLGlot**
+  - **[perf(athena): avoid tokenizing DML twice [CLAUDE] #8709](https://github.com/tobymao/sqlglot/pull/8709)**
   - **[fix(athena): route by each engine's rules when the combined tokenizer fails [CLAUDE] #8629](https://github.com/tobymao/sqlglot/pull/8629)**
 - **Spring Data JPA**
   - **[Commit: Fix inverted lower/upper bound checks in vector `Range<Score>` queries (e8f2730)](https://github.com/spring-projects/spring-data-jpa/commit/e8f27309e54470dd6fe4b8def80c9900cab4e162)**
@@ -26,8 +27,6 @@
 
 LLM services and Spring Data
 
-- **SQLGlot**
-  - **[perf(athena): avoid tokenizing DML twice [CLAUDE] #8709](https://github.com/tobymao/sqlglot/pull/8709)**
 - **OpenTelemetry Python Contrib**
   - **[fix: urllib instrumentation breaks file uploads (already fixed for urllib3) #5185](https://github.com/open-telemetry/opentelemetry-python-contrib/pull/5185)**
 - **Spring Data MongoDB**
