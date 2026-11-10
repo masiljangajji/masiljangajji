@@ -13,7 +13,6 @@
   - **[Issue: Lower-bound-only `Range<Score>` fails in vector search queries #4385](https://github.com/spring-projects/spring-data-jpa/issues/4385)**
 - **JJWT**
   - **[Align the Gson extension with Jackson's duplicate member name rejection #1073](https://github.com/jwtk/jjwt/pull/1073)**
-  - **[이 이슈는 2023년 12월에 시작되었으며...[더 보기]](https://codestudy.org/jjwt-duplicate-json-keys)**
 - **LangChain4j**
   - **[fix: honor the negation in SqlFilterParser NOT BETWEEN #6063](https://github.com/langchain4j/langchain4j/pull/6063)**
   - **[fix: keep the sign of negative numbers in SqlFilterParser IN lists #6037](https://github.com/langchain4j/langchain4j/pull/6037)**
@@ -36,10 +35,3 @@ LLM services and Spring Data
 - **Harness SDK**
   - **[fix(streaming): end the turn when tool_use carries no toolUse blocks #5145](https://github.com/strands-agents/harness-sdk/pull/5145)**
   - **[feat(bedrock): report cache write tokens split by cache TTL #5258](https://github.com/strands-agents/harness-sdk/pull/5258)**
-
----
-
-### ✍️ Latest Posts
-- <a href=https://codestudy.org/can-llm-write-sql>LLM아 내 말 좀 들어 - 불안형 개발자 안전형 되기 SQL 검증편</a> · <a href=https://codestudy.org/en/can-llm-write-sql>EN</a> · <a href=https://codestudy.org/zh/can-llm-write-sql>中文</a> · <a href=https://codestudy.org/ja/can-llm-write-sql>日本語</a></br>
-- <a href=https://codestudy.org/open-source-in-the-ai-era>오픈소스 기여, 딸깍으로 해도 되나요?</a> · <a href=https://codestudy.org/en/open-source-in-the-ai-era>EN</a> · <a href=https://codestudy.org/zh/open-source-in-the-ai-era>中文</a> · <a href=https://codestudy.org/ja/open-source-in-the-ai-era>日本語</a></br>
-- <a href=https://codestudy.org/jjwt-duplicate-json-keys>이 이슈는 2023년 12월에 시작되었으며...[더 보기]</a> · <a href=https://codestudy.org/en/jjwt-duplicate-json-keys>EN</a> · <a href=https://codestudy.org/zh/jjwt-duplicate-json-keys>中文</a> · <a href=https://codestudy.org/ja/jjwt-duplicate-json-keys>日本語</a></br>
